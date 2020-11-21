@@ -1,2 +1,10 @@
 /.idea
 ./.idea
+./pessoa_pygres.py
+/pessoa_pygres.py
+./pygres_connection.py
+/pygres_connection.py
+/psycopg.py
+./psycopg.py
+./venv
+/venv
